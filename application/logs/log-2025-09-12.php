@@ -1,0 +1,90 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-09-12 07:14:58 --> Severity: error --> Exception: Access denied for user 'root'@'localhost' (using password: NO) C:\xampp\htdocs\institute\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2025-09-12 07:15:02 --> Severity: error --> Exception: Access denied for user 'root'@'localhost' (using password: NO) C:\xampp\htdocs\institute\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2025-09-12 07:15:03 --> Severity: error --> Exception: Access denied for user 'root'@'localhost' (using password: NO) C:\xampp\htdocs\institute\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2025-09-12 07:16:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:28 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:28 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:28 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:28 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 01:16:28 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 01:16:28 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:33 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:33 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:33 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:33 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:37 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:37 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:37 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:37 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:16:47 --> 404 Page Not Found: Assets/frontend
+ERROR - 2025-09-12 07:18:14 --> 404 Page Not Found: Appliation/views
+ERROR - 2025-09-12 07:18:17 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:18:17 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:18:17 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:18:17 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:19:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:19:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:19:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:19:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:19:27 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:19:27 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:19:27 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:19:27 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:29:16 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:29:16 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:29:16 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:29:16 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:29:16 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:29:16 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:29:16 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:29:16 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:30:35 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:30:35 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:30:35 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:30:35 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:30:36 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:30:36 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:30:36 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:30:36 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:32:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:32:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:32:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:32:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:32:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:32:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:32:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:32:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:08 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:08 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:08 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:08 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:08 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:08 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:08 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:08 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:41 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:41 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:41 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:41 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:35:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:36:23 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:36:23 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:36:23 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:36:23 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 01:36:23 --> Severity: Warning --> Undefined array key "smtp_crypto" C:\xampp\htdocs\institute\application\helpers\common_helper.php 16
+ERROR - 2025-09-12 07:36:26 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:36:26 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:36:26 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
+ERROR - 2025-09-12 07:36:26 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\institute\application\helpers\common_helper.php 212
